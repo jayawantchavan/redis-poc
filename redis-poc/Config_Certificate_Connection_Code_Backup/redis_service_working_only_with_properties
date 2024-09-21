@@ -1,0 +1,50 @@
+
+Code changes
+
+in application properties
+
+
+spring.application.name=redis-chache-poc
+server.port=8082
+
+spring.data.redis.port=6380
+spring.data.redis.host=localhost
+spring.data.redis.password=Test@123
+spring.data.redis.ssl.enabled=true
+spring.cache.redis.time-to-live=60000
+# TTL in milliseconds
+
+
+
+pom.xml
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-redis</artifactId>
+		</dependency>
+				<dependency>
+			<groupId>io.lettuce</groupId>
+			<artifactId>lettuce-core</artifactId>
+			<version>6.3.2.RELEASE</version>
+		</dependency>
+
+
+Spring starter class
+
+@EnableCaching
+
+
+In use case
+
+   @Cacheable(value="product", key="#id")
+    public Product getProduct(long id) {
+
+         // connect();
+       return getDataPerkey(id);
+    }
+	
+	
+	
+	
+	
+	

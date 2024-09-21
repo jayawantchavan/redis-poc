@@ -1,0 +1,1420 @@
+330:M 21 Sep 2024 11:56:48.084 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:56:48.084 . 1 clients connected (0 replicas), 994760 bytes in use
+330:M 21 Sep 2024 11:56:53.117 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:56:53.117 . 1 clients connected (0 replicas), 994760 bytes in use
+330:M 21 Sep 2024 11:56:58.147 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:56:58.148 . 1 clients connected (0 replicas), 994760 bytes in use
+330:M 21 Sep 2024 11:57:03.181 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:03.181 . 1 clients connected (0 replicas), 1015232 bytes in use
+330:M 21 Sep 2024 11:57:07.468 - Reading from client: error:00000000:lib(0)::reason(0)
+330:M 21 Sep 2024 11:57:08.210 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:08.210 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:13.237 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:13.237 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:18.256 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:18.257 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:23.286 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:23.286 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:28.319 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:28.319 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:33.354 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:33.354 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:38.385 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:38.385 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:43.417 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:43.417 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:48.447 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:48.447 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:53.481 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:53.481 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:58.513 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:57:58.513 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:57:59.787 - Accepted 127.0.0.1:41232
+330:M 21 Sep 2024 11:57:59.787 # Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=127.0.0.1:41232 laddr=127.0.0.1:6380)
+330:M 21 Sep 2024 11:58:01.916 - Accepted 127.0.0.1:41234
+330:M 21 Sep 2024 11:58:01.916 # Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=127.0.0.1:41234 laddr=127.0.0.1:6380)
+330:M 21 Sep 2024 11:58:03.545 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:58:03.545 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:58:08.575 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:58:08.575 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:58:13.609 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:58:13.609 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:58:18.639 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:58:18.639 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:58:23.668 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:58:23.669 . 0 clients connected (0 replicas), 992296 bytes in use
+330:M 21 Sep 2024 11:58:28.699 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+330:M 21 Sep 2024 11:58:28.699 . 0 clients connected (0 replicas), 992296 bytes in use
+396:C 21 Sep 2024 11:59:29.824 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+396:C 21 Sep 2024 11:59:29.825 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+396:C 21 Sep 2024 11:59:29.825 * Redis version=7.2.0, bits=64, commit=00000000, modified=0, pid=396, just started
+396:C 21 Sep 2024 11:59:29.825 * Configuration loaded
+396:M 21 Sep 2024 11:59:29.825 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+396:M 21 Sep 2024 11:59:29.825 * monotonic clock: POSIX clock_gettime
+396:M 21 Sep 2024 11:59:29.827 # Failed to write PID file: Permission denied
+396:M 21 Sep 2024 11:59:29.827 * Running mode=standalone, port=6380.
+396:M 21 Sep 2024 11:59:29.837 * Server initialized
+396:M 21 Sep 2024 11:59:29.837 . The AOF directory appendonlydir doesn't exist
+396:M 21 Sep 2024 11:59:29.848 * Loading RDB produced by version 7.2.0
+396:M 21 Sep 2024 11:59:29.849 * RDB age 3469 seconds
+396:M 21 Sep 2024 11:59:29.849 * RDB memory usage when created 0.83 Mb
+396:M 21 Sep 2024 11:59:29.849 * Done loading RDB, keys loaded: 0, keys expired: 0.
+396:M 21 Sep 2024 11:59:29.849 * DB loaded from disk: 0.012 seconds
+396:M 21 Sep 2024 11:59:29.849 * Ready to accept connections tls
+396:M 21 Sep 2024 11:59:29.849 . 0 clients connected (0 replicas), 866424 bytes in use
+396:M 21 Sep 2024 11:59:34.877 . 0 clients connected (0 replicas), 866376 bytes in use
+396:M 21 Sep 2024 11:59:35.103 - Accepted 127.0.0.1:41236
+396:M 21 Sep 2024 11:59:39.906 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 11:59:44.933 . 1 clients connected (0 replicas), 988144 bytes in use
+396:M 21 Sep 2024 11:59:49.960 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 11:59:54.988 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:00.021 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:05.049 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:10.077 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:15.111 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:20.141 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:25.169 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:30.196 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:35.220 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:40.248 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:45.277 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:50.309 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:00:55.337 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:00.369 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:05.401 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:10.433 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:15.467 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:20.498 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:25.532 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:30.563 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:35.594 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:37.680 - Accepted 127.0.0.1:41238
+396:M 21 Sep 2024 12:01:37.680 # Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=127.0.0.1:41238 laddr=127.0.0.1:6380)
+396:M 21 Sep 2024 12:01:39.971 - Accepted 127.0.0.1:41240
+396:M 21 Sep 2024 12:01:39.971 # Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=127.0.0.1:41240 laddr=127.0.0.1:6380)
+396:M 21 Sep 2024 12:01:40.631 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:45.663 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:48.630 - Accepted 127.0.0.1:41242
+396:M 21 Sep 2024 12:01:48.630 # Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=127.0.0.1:41242 laddr=127.0.0.1:6380)
+396:M 21 Sep 2024 12:01:50.696 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:01:51.863 - Accepted 127.0.0.1:41244
+396:M 21 Sep 2024 12:01:51.863 # Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=127.0.0.1:41244 laddr=127.0.0.1:6380)
+396:M 21 Sep 2024 12:01:55.729 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:02:00.757 . 1 clients connected (0 replicas), 988144 bytes in use
+396:M 21 Sep 2024 12:02:05.785 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:02:10.812 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:02:15.839 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:02:20.866 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:02:25.894 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:02:30.923 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:02:35.948 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:02:40.979 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:02:46.006 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:02:50.742 - Reading from client: error:00000000:lib(0)::reason(0)
+396:M 21 Sep 2024 12:02:51.032 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:02:56.058 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:03:01.086 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:03:06.115 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:03:11.138 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:03:16.157 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:03:21.181 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:03:26.211 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:03:27.523 - Accepted 127.0.0.1:41246
+396:M 21 Sep 2024 12:03:31.243 . 1 clients connected (0 replicas), 988144 bytes in use
+396:M 21 Sep 2024 12:03:36.272 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:03:41.299 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:03:46.331 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:03:51.366 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:03:56.400 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:04:01.426 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:04:06.455 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:04:11.483 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:04:16.510 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:04:21.543 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:04:26.569 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:04:31.597 . 1 clients connected (0 replicas), 967672 bytes in use
+396:M 21 Sep 2024 12:04:31.877 - Reading from client: error:00000000:lib(0)::reason(0)
+396:M 21 Sep 2024 12:04:36.620 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:04:41.642 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:04:46.667 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:04:51.686 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:04:56.706 . 0 clients connected (0 replicas), 965208 bytes in use
+396:M 21 Sep 2024 12:04:59.637 - Accepted 127.0.0.1:41248
+396:M 21 Sep 2024 12:05:01.736 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:01.736 . 1 clients connected (0 replicas), 988360 bytes in use
+396:M 21 Sep 2024 12:05:06.768 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:06.768 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:05:11.794 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:11.794 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:05:16.824 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:16.824 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:05:21.854 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:21.854 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:05:26.882 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:26.883 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:05:31.916 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:31.916 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:05:36.943 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:36.943 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:05:41.970 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:41.971 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:05:46.996 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:46.997 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:05:52.025 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:52.025 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:05:57.055 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:05:57.056 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:02.085 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:02.086 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:07.114 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:07.114 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:12.147 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:12.148 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:17.181 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:17.181 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:22.211 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:22.211 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:27.244 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:27.244 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:32.270 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:32.271 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:37.300 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:37.300 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:42.327 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:42.328 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:47.356 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:47.356 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:52.390 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:52.390 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:57.425 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:06:57.425 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:06:59.588 - Reading from client: error:00000000:lib(0)::reason(0)
+396:M 21 Sep 2024 12:07:02.450 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:02.450 . 0 clients connected (0 replicas), 965424 bytes in use
+396:M 21 Sep 2024 12:07:07.480 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:07.480 . 0 clients connected (0 replicas), 965424 bytes in use
+396:M 21 Sep 2024 12:07:12.505 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:12.505 . 0 clients connected (0 replicas), 965424 bytes in use
+396:M 21 Sep 2024 12:07:12.944 - Accepted 127.0.0.1:41250
+396:M 21 Sep 2024 12:07:17.534 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:17.534 . 1 clients connected (0 replicas), 988360 bytes in use
+396:M 21 Sep 2024 12:07:22.567 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:22.567 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:07:27.597 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:27.597 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:07:32.626 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:32.626 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:07:37.658 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:37.658 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:07:42.697 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:42.697 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:07:47.728 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:47.728 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:07:52.760 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:52.761 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:07:57.791 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:07:57.791 . 1 clients connected (0 replicas), 967888 bytes in use
+396:M 21 Sep 2024 12:08:02.820 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:08:02.820 . 1 clients connected (0 replicas), 988360 bytes in use
+396:M 21 Sep 2024 12:08:07.849 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+396:M 21 Sep 2024 12:08:07.849 . 1 clients connected (0 replicas), 967888 bytes in use
+415:C 21 Sep 2024 12:08:38.109 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+415:C 21 Sep 2024 12:08:38.109 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+415:C 21 Sep 2024 12:08:38.109 * Redis version=7.2.0, bits=64, commit=00000000, modified=0, pid=415, just started
+415:C 21 Sep 2024 12:08:38.109 * Configuration loaded
+415:M 21 Sep 2024 12:08:38.109 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+415:M 21 Sep 2024 12:08:38.109 * monotonic clock: POSIX clock_gettime
+415:M 21 Sep 2024 12:08:38.110 # Failed to write PID file: Permission denied
+415:M 21 Sep 2024 12:08:38.110 * Running mode=standalone, port=6380.
+415:M 21 Sep 2024 12:08:38.116 * Server initialized
+415:M 21 Sep 2024 12:08:38.116 . The AOF directory appendonlydir doesn't exist
+415:M 21 Sep 2024 12:08:38.118 * Loading RDB produced by version 7.2.0
+415:M 21 Sep 2024 12:08:38.118 * RDB age 4018 seconds
+415:M 21 Sep 2024 12:08:38.118 * RDB memory usage when created 0.83 Mb
+415:M 21 Sep 2024 12:08:38.118 * Done loading RDB, keys loaded: 0, keys expired: 0.
+415:M 21 Sep 2024 12:08:38.118 * DB loaded from disk: 0.001 seconds
+415:M 21 Sep 2024 12:08:38.118 * Ready to accept connections tls
+415:M 21 Sep 2024 12:08:38.118 . 0 clients connected (0 replicas), 866456 bytes in use
+415:M 21 Sep 2024 12:08:43.146 . 0 clients connected (0 replicas), 866408 bytes in use
+415:M 21 Sep 2024 12:08:45.368 - Accepted 127.0.0.1:41254
+415:M 21 Sep 2024 12:08:48.176 . 1 clients connected (0 replicas), 918264 bytes in use
+415:M 21 Sep 2024 12:08:53.205 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:08:53.205 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:08:58.237 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:09:03.263 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:09:03.263 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:09:08.296 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:09:13.325 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:09:13.325 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:09:18.354 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:09:18.354 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:09:23.384 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:09:23.384 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:09:28.417 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:09:28.417 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:09:33.451 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:09:33.451 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:09:38.482 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:09:38.482 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:09:43.511 . 1 clients connected (0 replicas), 988176 bytes in use
+415:M 21 Sep 2024 12:09:48.539 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:09:48.539 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:09:53.566 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:09:58.597 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:03.628 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:08.657 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:13.688 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:18.720 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:23.752 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:28.784 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:33.816 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:38.842 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:43.871 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:48.903 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:53.929 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:10:58.959 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:03.986 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:09.013 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:14.040 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:19.071 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:24.101 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:29.133 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:34.162 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:39.196 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:44.231 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:49.265 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:54.296 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:11:59.325 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:04.359 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:09.385 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:14.414 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:19.443 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:24.472 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:29.503 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:34.534 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:39.564 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:44.592 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:49.627 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:54.662 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:12:59.693 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:04.723 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:09.750 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:14.781 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:19.808 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:24.836 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:29.865 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:34.895 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:39.924 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:44.952 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:49.978 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:13:55.008 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:00.039 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:05.069 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:10.097 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:15.124 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:20.154 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:25.184 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:30.210 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:35.231 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:40.259 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:45.287 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:50.321 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:14:55.350 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:15:00.379 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:15:05.408 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:15:10.438 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:15:15.468 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:15:20.498 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:15:25.526 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:15:26.981 - Reading from client: error:00000000:lib(0)::reason(0)
+415:M 21 Sep 2024 12:15:30.551 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:15:35.570 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:15:40.596 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:15:45.633 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:15:50.668 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:15:55.698 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:16:00.731 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:16:05.768 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:16:10.804 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:16:15.842 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:16:20.870 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:16:21.863 - Accepted 127.0.0.1:41256
+415:M 21 Sep 2024 12:16:25.897 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:16:25.897 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:16:30.928 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:16:30.928 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:16:35.964 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:16:35.964 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:16:40.997 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:16:40.997 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:16:46.032 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:16:46.032 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:16:51.066 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:16:51.066 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:16:56.100 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:16:56.101 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:17:01.133 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:17:01.134 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:17:06.167 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:17:06.167 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:17:11.201 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:17:11.201 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:17:16.236 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:17:16.236 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:17:21.271 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:17:21.271 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:17:26.304 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:17:31.338 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:17:36.371 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:17:41.400 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:17:46.431 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:17:46.431 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:17:51.464 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:17:51.464 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:17:56.498 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:17:56.498 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:18:01.531 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:18:01.531 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:18:06.566 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:18:06.566 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:18:11.598 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:18:11.598 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:18:16.635 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:18:16.635 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:18:21.672 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:18:21.672 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:18:26.702 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:18:26.703 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:18:31.736 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:18:31.736 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:18:36.769 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:18:36.769 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:18:41.802 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:18:41.802 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:18:46.839 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:18:51.871 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:18:56.905 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:19:01.935 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:01.935 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:19:06.969 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:06.969 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:19:12.002 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:12.002 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:19:17.038 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:17.038 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:19:22.074 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:22.074 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:19:27.107 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:27.107 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:19:32.143 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:32.143 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:19:37.179 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:37.179 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:19:42.213 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:42.213 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:19:47.247 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:47.247 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:19:52.282 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:52.282 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:19:57.315 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:19:57.315 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:20:02.348 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:02.348 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:20:07.375 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:07.375 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:20:12.404 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:12.404 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:20:17.437 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:17.437 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:20:22.464 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:22.464 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:20:27.496 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:27.496 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:20:32.532 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:32.532 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:20:37.567 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:37.567 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:20:42.611 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:42.611 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:20:47.643 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:47.643 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:20:52.675 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:52.675 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:20:57.708 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:20:57.708 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:21:02.741 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:21:07.775 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:21:12.809 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:21:17.845 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:21:22.880 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:21:27.914 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:21:32.947 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:21:37.982 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:21:43.009 . 1 clients connected (0 replicas), 967704 bytes in use
+415:M 21 Sep 2024 12:21:48.045 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:21:48.045 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:21:53.075 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:21:53.075 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:21:58.107 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:21:58.107 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:22:03.141 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:03.141 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:22:08.174 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:08.174 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:22:13.206 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:13.207 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:22:18.232 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:18.233 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:22:23.262 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:23.262 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:22:28.293 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:28.293 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:22:33.323 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:33.323 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:22:38.353 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:38.353 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:22:43.380 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:43.381 . 1 clients connected (0 replicas), 988416 bytes in use
+415:M 21 Sep 2024 12:22:48.412 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:48.413 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:22:53.440 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:53.440 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:22:58.467 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:22:58.467 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:23:03.495 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:23:03.495 . 1 clients connected (0 replicas), 967944 bytes in use
+415:M 21 Sep 2024 12:23:06.808 - Reading from client: error:00000000:lib(0)::reason(0)
+415:M 21 Sep 2024 12:23:08.526 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:23:08.526 . 0 clients connected (0 replicas), 965480 bytes in use
+415:M 21 Sep 2024 12:23:13.544 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:23:13.544 . 0 clients connected (0 replicas), 965480 bytes in use
+415:M 21 Sep 2024 12:23:18.567 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:23:18.568 . 0 clients connected (0 replicas), 965480 bytes in use
+415:M 21 Sep 2024 12:23:20.603 - Accepted 127.0.0.1:41258
+415:M 21 Sep 2024 12:23:20.624 # Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=127.0.0.1:41258 laddr=127.0.0.1:6380)
+415:M 21 Sep 2024 12:23:23.594 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:23:23.594 . 0 clients connected (0 replicas), 965480 bytes in use
+415:M 21 Sep 2024 12:23:28.622 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:23:28.622 . 0 clients connected (0 replicas), 965480 bytes in use
+415:M 21 Sep 2024 12:23:33.642 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:23:33.643 . 0 clients connected (0 replicas), 965480 bytes in use
+415:M 21 Sep 2024 12:23:38.661 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:23:38.662 . 0 clients connected (0 replicas), 965480 bytes in use
+415:M 21 Sep 2024 12:23:43.694 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+415:M 21 Sep 2024 12:23:43.694 . 0 clients connected (0 replicas), 965480 bytes in use
+415:M 21 Sep 2024 12:23:48.723 . 0 clients connected (0 replicas), 965240 bytes in use
+415:M 21 Sep 2024 12:23:53.759 . 0 clients connected (0 replicas), 965240 bytes in use
+424:C 21 Sep 2024 12:24:08.384 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+424:C 21 Sep 2024 12:24:08.384 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+424:C 21 Sep 2024 12:24:08.384 * Redis version=7.2.0, bits=64, commit=00000000, modified=0, pid=424, just started
+424:C 21 Sep 2024 12:24:08.384 * Configuration loaded
+424:M 21 Sep 2024 12:24:08.385 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+424:M 21 Sep 2024 12:24:08.385 * monotonic clock: POSIX clock_gettime
+424:M 21 Sep 2024 12:24:08.385 # Failed to write PID file: Permission denied
+424:M 21 Sep 2024 12:24:08.385 * Running mode=standalone, port=6380.
+424:M 21 Sep 2024 12:24:08.396 * Server initialized
+424:M 21 Sep 2024 12:24:08.396 . The AOF directory appendonlydir doesn't exist
+424:M 21 Sep 2024 12:24:08.407 * Loading RDB produced by version 7.2.0
+424:M 21 Sep 2024 12:24:08.407 * RDB age 4948 seconds
+424:M 21 Sep 2024 12:24:08.407 * RDB memory usage when created 0.83 Mb
+424:M 21 Sep 2024 12:24:08.407 * Done loading RDB, keys loaded: 0, keys expired: 0.
+424:M 21 Sep 2024 12:24:08.407 * DB loaded from disk: 0.011 seconds
+424:M 21 Sep 2024 12:24:08.407 * Ready to accept connections tls
+424:M 21 Sep 2024 12:24:08.407 . 0 clients connected (0 replicas), 866520 bytes in use
+424:M 21 Sep 2024 12:24:13.440 . 0 clients connected (0 replicas), 866472 bytes in use
+424:M 21 Sep 2024 12:24:18.473 . 0 clients connected (0 replicas), 866472 bytes in use
+424:M 21 Sep 2024 12:24:18.681 - Accepted 127.0.0.1:41260
+424:M 21 Sep 2024 12:24:23.502 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+424:M 21 Sep 2024 12:24:23.502 . 1 clients connected (0 replicas), 988480 bytes in use
+424:M 21 Sep 2024 12:24:28.531 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+424:M 21 Sep 2024 12:24:28.531 . 1 clients connected (0 replicas), 968008 bytes in use
+424:M 21 Sep 2024 12:24:33.566 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+424:M 21 Sep 2024 12:24:33.566 . 1 clients connected (0 replicas), 968008 bytes in use
+424:M 21 Sep 2024 12:24:38.599 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+424:M 21 Sep 2024 12:24:38.599 . 1 clients connected (0 replicas), 968008 bytes in use
+432:C 21 Sep 2024 12:24:52.638 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+432:C 21 Sep 2024 12:24:52.638 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+432:C 21 Sep 2024 12:24:52.638 * Redis version=7.2.0, bits=64, commit=00000000, modified=0, pid=432, just started
+432:C 21 Sep 2024 12:24:52.638 * Configuration loaded
+432:M 21 Sep 2024 12:24:52.638 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+432:M 21 Sep 2024 12:24:52.638 * monotonic clock: POSIX clock_gettime
+432:M 21 Sep 2024 12:24:52.639 # Failed to write PID file: Permission denied
+432:M 21 Sep 2024 12:24:52.639 * Running mode=standalone, port=6380.
+432:M 21 Sep 2024 12:24:52.643 * Server initialized
+432:M 21 Sep 2024 12:24:52.643 . The AOF directory appendonlydir doesn't exist
+432:M 21 Sep 2024 12:24:52.654 * Loading RDB produced by version 7.2.0
+432:M 21 Sep 2024 12:24:52.654 * RDB age 4992 seconds
+432:M 21 Sep 2024 12:24:52.654 * RDB memory usage when created 0.83 Mb
+432:M 21 Sep 2024 12:24:52.654 * Done loading RDB, keys loaded: 0, keys expired: 0.
+432:M 21 Sep 2024 12:24:52.654 * DB loaded from disk: 0.011 seconds
+432:M 21 Sep 2024 12:24:52.654 * Ready to accept connections tls
+432:M 21 Sep 2024 12:24:52.655 . 0 clients connected (0 replicas), 866360 bytes in use
+432:M 21 Sep 2024 12:24:56.746 - Accepted 127.0.0.1:41272
+432:M 21 Sep 2024 12:24:57.687 . 1 clients connected (0 replicas), 938640 bytes in use
+432:M 21 Sep 2024 12:25:02.719 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:07.756 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:12.785 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:17.820 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:22.853 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:27.886 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:32.920 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:37.955 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:42.984 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:48.018 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:53.049 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:25:58.083 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:03.118 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:08.152 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:13.183 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:18.217 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:23.252 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:28.285 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:33.318 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:38.351 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:43.387 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:48.421 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:53.455 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:26:58.489 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:03.521 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:08.556 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:13.588 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:18.624 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:23.657 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:28.690 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:33.724 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:38.757 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:43.792 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:48.828 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:53.863 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:27:58.898 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:03.932 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:08.966 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:13.987 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:19.018 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:24.053 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:29.087 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:34.124 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:39.157 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:44.192 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:49.226 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:54.264 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:28:59.298 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:04.334 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:09.367 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:14.402 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:19.438 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:24.473 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:29.508 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:34.543 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:39.572 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:44.592 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:49.624 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:54.660 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:29:59.698 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:04.734 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:09.769 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:14.804 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:19.841 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:24.874 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:29.907 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:34.939 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:39.976 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:45.008 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:50.044 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:30:55.078 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:00.114 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:05.149 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:10.186 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:15.219 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:20.252 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:25.289 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:30.325 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:35.360 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:40.395 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:45.431 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:50.461 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:31:55.487 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:00.507 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:05.527 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:10.548 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:15.565 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:20.585 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:25.606 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:30.625 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:35.659 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:40.693 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:45.729 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:50.763 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:32:55.800 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:00.835 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:05.872 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:10.906 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:15.944 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:20.979 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:26.018 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:31.051 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:36.088 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:41.124 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:46.159 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:51.195 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:33:56.231 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:01.269 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:06.308 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:11.345 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:16.380 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:21.417 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:26.455 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:31.491 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:36.525 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:41.561 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:46.598 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:51.635 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:34:56.669 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:01.702 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:06.740 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:11.775 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:16.805 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:21.838 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:26.872 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:31.907 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:36.944 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:41.980 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:47.016 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:52.053 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:35:57.089 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:02.127 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:07.163 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:12.198 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:17.232 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:22.268 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:27.303 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:32.337 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:37.375 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:42.410 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:47.446 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:52.481 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:36:57.520 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:02.554 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:07.592 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:12.625 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:17.664 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:22.701 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:27.736 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:32.771 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:37.805 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:42.841 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:47.878 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:52.914 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:37:57.949 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:02.982 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:08.014 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:13.051 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:18.085 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:23.121 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:28.156 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:33.191 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:38.224 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:43.260 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:48.292 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:53.330 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:38:58.364 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:03.399 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:08.433 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:13.469 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:18.505 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:23.540 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:28.575 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:33.612 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:38.646 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:43.680 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:48.713 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:53.749 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:39:58.783 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:40:03.817 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:40:08.852 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 12:40:13.888 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:48:13.702 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:48:18.721 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:48:23.740 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:48:28.759 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:48:33.788 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:48:38.815 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:48:43.835 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:48:48.852 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:48:53.871 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:48:58.892 . 1 clients connected (0 replicas), 918168 bytes in use
+432:M 21 Sep 2024 16:49:01.702 * 1 changes in 3600 seconds. Saving...
+432:M 21 Sep 2024 16:49:01.703 * Background saving started by pid 438
+438:C 21 Sep 2024 16:49:01.706 - Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+438:C 21 Sep 2024 16:49:01.719 * DB saved on disk
+438:C 21 Sep 2024 16:49:01.719 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+432:M 21 Sep 2024 16:49:01.804 * Background saving terminated with success
+432:M 21 Sep 2024 16:49:03.912 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:03.912 . 1 clients connected (0 replicas), 988320 bytes in use
+432:M 21 Sep 2024 16:49:08.938 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:08.938 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:49:13.962 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:13.962 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:49:18.986 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:18.986 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:49:24.015 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:24.015 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:49:29.042 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:29.043 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:49:34.069 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:34.069 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:49:39.093 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:39.093 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:49:44.119 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:44.119 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:49:49.150 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:49.150 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:49:54.181 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:54.181 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:49:59.207 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:49:59.207 . 1 clients connected (0 replicas), 967848 bytes in use
+432:M 21 Sep 2024 16:50:04.235 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:09.265 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:14.292 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:19.320 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:24.348 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:29.376 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:34.405 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:39.436 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:44.469 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:49.501 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:54.532 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:50:59.557 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:51:04.576 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:51:09.605 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:51:14.632 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:51:19.652 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:51:24.680 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:51:29.709 . 1 clients connected (0 replicas), 967608 bytes in use
+432:M 21 Sep 2024 16:51:30.536 - Accepted 127.0.0.1:41274
+432:M 21 Sep 2024 16:51:30.870 - Reading from client: error:00000000:lib(0)::reason(0)
+432:M 21 Sep 2024 16:51:34.736 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:51:39.772 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:51:44.803 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:51:49.833 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:51:54.865 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:51:57.986 - Accepted 127.0.0.1:41276
+432:M 21 Sep 2024 16:51:58.026 - Reading from client: error:00000000:lib(0)::reason(0)
+432:M 21 Sep 2024 16:51:59.894 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:04.923 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:09.953 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:14.982 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:20.009 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:25.033 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:30.052 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:35.071 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:40.085 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:45.103 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:50.129 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:52:55.156 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:00.181 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:05.208 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:10.237 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:15.256 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:20.282 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:25.302 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:30.322 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:35.349 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:40.377 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:45.396 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 16:53:50.124 - Accepted 127.0.0.1:41278
+432:M 21 Sep 2024 16:53:50.416 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:53:50.416 . 2 clients connected (0 replicas), 991984 bytes in use
+432:M 21 Sep 2024 16:53:55.438 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:53:55.438 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:54:00.457 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:54:00.457 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:54:05.475 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:54:05.475 . 2 clients connected (0 replicas), 991984 bytes in use
+432:M 21 Sep 2024 16:54:10.495 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:54:10.495 . 2 clients connected (0 replicas), 991984 bytes in use
+432:M 21 Sep 2024 16:54:15.514 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:54:15.515 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:54:20.530 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:54:20.530 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:54:25.547 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:54:25.547 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:54:30.563 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:54:30.563 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:54:35.583 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:54:35.583 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:54:40.602 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:54:40.602 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:54:45.623 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:54:45.623 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:54:50.644 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:54:55.665 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:55:00.683 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:55:05.704 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:55:10.732 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:55:15.751 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:55:15.751 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:55:20.770 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:55:20.770 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:55:25.789 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:55:25.789 . 2 clients connected (0 replicas), 991984 bytes in use
+432:M 21 Sep 2024 16:55:30.808 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:55:30.808 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:55:35.826 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:55:35.826 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:55:40.846 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:55:40.846 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:55:45.863 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:55:45.863 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:55:50.881 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:55:50.881 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:55:55.900 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:55:55.900 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:56:00.918 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:56:00.918 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:56:05.937 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 16:56:05.937 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 16:56:10.964 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:56:15.990 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:56:21.016 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:56:26.043 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:56:31.073 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:56:36.101 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:56:41.126 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:56:46.154 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:56:51.184 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:56:56.211 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:01.235 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:06.263 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:11.293 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:16.322 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:21.348 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:26.375 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:31.402 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:36.431 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:41.459 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:46.488 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:51.515 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:57:56.542 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:01.572 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:06.596 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:11.625 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:16.651 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:21.678 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:26.705 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:31.734 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:36.761 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:41.788 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:46.815 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:51.844 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:58:56.872 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:01.899 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:06.925 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:11.954 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:16.985 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:22.011 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:27.035 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:32.062 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:37.088 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:42.116 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:47.138 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:52.161 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 16:59:57.183 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:02.205 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:07.225 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:12.242 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:17.257 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:22.271 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:27.289 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:32.305 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:37.319 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:42.334 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:47.348 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:52.364 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:00:57.379 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:02.393 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:07.408 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:12.423 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:17.438 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:22.451 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:27.464 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:32.478 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:37.493 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:42.507 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:47.522 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:52.536 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:01:57.551 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:02.566 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:07.581 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:12.595 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:17.609 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:22.622 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:27.635 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:32.652 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:37.675 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:42.702 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:47.727 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:52.757 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:02:57.785 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:02.811 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:07.837 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:12.864 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:17.892 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:22.922 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:27.948 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:32.972 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:38.000 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:43.029 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:48.054 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:53.079 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:03:58.108 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:03.134 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:08.160 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:13.185 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:18.212 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:23.240 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:28.269 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:33.295 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:38.322 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:43.346 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:48.371 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:53.398 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:04:58.422 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:03.446 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:08.473 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:13.503 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:18.529 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:23.553 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:28.580 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:33.608 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:38.635 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:43.663 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:48.689 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:53.716 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:05:58.740 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:03.766 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:08.791 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:13.816 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:18.846 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:23.873 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:28.900 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:33.929 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:38.955 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:43.982 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:49.010 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:54.038 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:06:59.067 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:04.096 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:09.125 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:14.151 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:19.174 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:24.202 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:29.228 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:34.256 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:39.282 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:44.311 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:49.341 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:54.368 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:07:59.396 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:04.429 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:09.457 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:14.483 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:19.512 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:24.541 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:29.568 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:34.595 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:39.626 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:44.653 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:49.682 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:54.712 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:08:59.742 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:04.770 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:09.798 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:14.829 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:19.857 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:24.886 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:29.914 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:34.942 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:39.970 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:44.997 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:50.028 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:09:55.057 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:00.086 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:05.113 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:10.139 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:15.164 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:20.195 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:25.222 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:30.252 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:35.280 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:40.309 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:45.339 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:50.367 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:10:55.395 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:11:00.421 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:11:05.453 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 17:11:10.483 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:19:27.265 * 1 changes in 3600 seconds. Saving...
+432:M 21 Sep 2024 19:19:27.266 * Background saving started by pid 439
+439:C 21 Sep 2024 19:19:27.318 * DB saved on disk
+439:C 21 Sep 2024 19:19:27.319 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+432:M 21 Sep 2024 19:19:27.367 * Background saving terminated with success
+432:M 21 Sep 2024 19:19:28.976 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:19:33.995 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:19:39.015 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:19:44.040 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:19:44.040 . 2 clients connected (0 replicas), 991984 bytes in use
+432:M 21 Sep 2024 19:19:49.066 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:19:49.066 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 19:19:54.092 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:19:54.092 . 2 clients connected (0 replicas), 991984 bytes in use
+432:M 21 Sep 2024 19:19:59.117 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:19:59.118 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 19:20:04.143 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:20:04.143 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 19:20:09.164 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:20:09.164 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 19:20:14.183 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:20:14.183 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 19:20:19.206 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:20:19.206 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 19:20:24.230 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:20:24.231 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 19:20:29.257 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:20:29.257 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 19:20:34.283 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:20:34.283 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 19:20:39.311 - DB 0: 1 keys (1 volatile) in 4 slots HT.
+432:M 21 Sep 2024 19:20:39.311 . 2 clients connected (0 replicas), 971512 bytes in use
+432:M 21 Sep 2024 19:20:44.341 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:20:49.369 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:20:54.397 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:20:59.427 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:04.459 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:09.493 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:14.527 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:19.559 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:24.590 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:29.618 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:34.646 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:39.674 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:44.707 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:49.738 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:54.764 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:21:59.795 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:04.827 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:09.860 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:14.893 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:19.924 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:24.955 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:29.981 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:35.008 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:40.039 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:45.071 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:50.104 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:22:55.137 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:00.169 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:05.202 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:10.236 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:15.269 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:20.299 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:25.332 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:30.363 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:35.394 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:40.427 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:45.461 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:50.490 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:23:55.518 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:00.550 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:05.581 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:10.615 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:15.646 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:20.679 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:25.708 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:30.733 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:35.757 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:40.788 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:45.816 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:50.846 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:24:55.878 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:00.908 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:05.940 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:10.972 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:16.006 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:21.036 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:26.070 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:31.102 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:36.130 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:41.162 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:46.194 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:51.225 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:25:56.257 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:01.287 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:06.324 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:11.356 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:16.387 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:21.418 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:26.449 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:31.478 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:36.510 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:41.541 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:46.572 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:51.604 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:26:56.632 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:01.664 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:06.694 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:11.725 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:16.758 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:21.791 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:26.825 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:31.858 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:36.889 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:41.919 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:46.949 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:51.981 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:27:57.015 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:02.047 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:07.081 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:12.111 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:17.144 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:22.175 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:27.207 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:32.239 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:37.270 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:42.301 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:47.334 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:52.366 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:28:57.396 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:02.430 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:07.463 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:12.496 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:17.532 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:22.565 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:27.596 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:32.625 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:37.653 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:42.685 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:47.716 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:52.747 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:29:57.779 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:02.810 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:07.841 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:12.871 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:17.903 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:22.933 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:27.963 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:32.997 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:38.028 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:43.057 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:48.090 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:53.122 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:30:58.153 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:03.184 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:08.216 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:13.248 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:18.281 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:23.314 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:28.346 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:33.379 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:38.410 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:43.441 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:48.473 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:53.508 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:31:58.542 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:03.571 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:08.605 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:13.634 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:18.667 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:23.700 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:28.731 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:33.761 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:38.794 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:43.826 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:48.856 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:53.884 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:32:58.918 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:03.951 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:08.984 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:14.016 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:19.048 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:24.081 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:29.109 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:34.140 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:39.168 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:44.200 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:49.232 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:54.263 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:33:59.295 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:04.326 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:09.359 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:14.389 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:19.420 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:24.451 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:29.480 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:34.509 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:39.541 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:44.571 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:49.602 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:54.637 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:34:59.668 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:04.700 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:09.732 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:14.764 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:19.796 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:24.830 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:29.860 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:34.894 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:39.928 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:44.964 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:49.994 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:35:55.024 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:00.052 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:05.082 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:10.116 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:15.150 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:20.183 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:25.212 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:30.242 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:35.272 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:40.304 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:45.336 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:50.368 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:36:55.399 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:00.432 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:05.458 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:10.489 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:15.522 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:20.553 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:25.588 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:30.620 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:35.652 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:40.686 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:45.717 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:50.750 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:37:55.783 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:00.818 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:05.851 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:10.887 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:15.922 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:20.955 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:25.991 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:31.024 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:36.056 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:41.092 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:46.128 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:51.163 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:38:56.197 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:01.230 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:06.265 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:11.300 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:16.336 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:21.371 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:26.406 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:31.439 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:36.471 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:41.504 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:46.537 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:51.571 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:39:56.601 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:01.632 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:06.663 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:11.691 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:16.719 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:21.751 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:26.781 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:31.811 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:36.841 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:41.867 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:46.897 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:51.924 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:40:56.953 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:01.986 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:07.012 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:12.039 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:17.070 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:22.101 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:27.128 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:32.159 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:37.185 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:42.215 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:47.245 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:52.273 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:57.300 . 2 clients connected (0 replicas), 971272 bytes in use
+432:M 21 Sep 2024 19:41:59.943 - Reading from client: error:00000000:lib(0)::reason(0)
+432:M 21 Sep 2024 19:42:02.329 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:07.355 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:12.386 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:17.412 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:22.443 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:27.468 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:32.494 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:37.522 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:42.553 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:47.586 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:52.614 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:42:57.641 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:02.668 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:07.696 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:12.721 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:17.747 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:22.774 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:27.801 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:32.831 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:37.859 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:42.891 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:47.921 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:52.948 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:43:57.976 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:03.002 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:08.023 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:13.053 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:18.086 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:23.120 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:28.150 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:33.176 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:38.205 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:43.233 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:48.261 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:53.291 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:44:58.319 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:03.351 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:08.384 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:13.415 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:18.451 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:23.486 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:28.518 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:33.550 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:38.583 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:43.615 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:48.644 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:53.677 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:45:58.711 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:03.740 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:08.773 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:13.808 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:18.836 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:23.866 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:28.897 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:33.928 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:38.961 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:43.992 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:49.024 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:54.054 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:46:59.083 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:04.110 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:09.136 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:14.165 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:19.198 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:24.229 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:29.255 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:34.284 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:39.313 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:44.339 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:49.364 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:54.391 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:47:59.410 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:48:04.431 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:48:09.453 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:48:14.472 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:48:19.495 . 1 clients connected (0 replicas), 968784 bytes in use
+432:M 21 Sep 2024 19:48:24.519 . 1 clients connected (0 replicas), 968784 bytes in use

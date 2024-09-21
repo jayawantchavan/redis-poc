@@ -1,0 +1,196 @@
+ubuntu
+user - jaaywant
+password - jayawant
+
+
+Install wsl for windows -> "wsl --install -d Ubuntu"
+
+Install redis 7.2.0
+
+Error during installation with tls support
+
+
+download - using sudo command 7.2.0
+Extract - tar xzf http://localhost:8082/product/get/2
+make changes in redis.conf
+   - Save flag to "" to avoid storig data in disk
+   - appendonly no
+   - set log file
+   - Give password - requirepass
+   - enable tls
+   - Refer below openssl steps for ssl 
+   
+steps
+
+- make install
+- error will comes
+  - open ssl error & jmalloc error will comes
+- make BUILD_TLS=true
+- install open ssl
+- install jemalloc 
+   - wget https://github.com/jemalloc/jemalloc/releases/download/5.3.0/jemalloc-5.3.0.tar.bz2
+   - tar -xjf jemalloc-5.3.0.tar.bz2
+   - cd jemalloc-5.3.0
+     
+   - ./configure
+   - make
+   - sudo make install
+
+   - sudo ldconfig
+   -If you installed jemalloc in /usr/local, make sure that your system knows where to find it:
+   - bash
+   - sudo ldconfig
+   - Verify jemalloc Header Files:
+   - Check the header file location:
+   - bash
+   - ls /usr/local/include/jemalloc/jemalloc.h
+
+- Run make distclean to Clean Up Previous Builds:
+  - make distclean
+- Build Redis Again
+   - make BUILD_TLS=true
+   - make install
+- Redis will start with tls enabled
+cd /home/jayawant/redis/redis-7.2.0
+
+
+Open ssl
+
+
+- Note - user db existing certificate & keystore
+
+
+- Create redis.crt & redis.key certificate at server side and add its path in redis conf
+- Add all tls related properties in redis conf
+- Create self signed certificate using below command. recommneded only for testing..in org we can use peoper one
+
+  - openssl req -x509 -nodes -newkey rsa:2048 -keyout redis.key -out redis.crt -days 3650
+
+  - Enter valid details about hostname, server while creating certificate to avoid below issue
+
+  ======= so redis.crt & redis.key cerificates at redis server side
+  
+  - Trust the redis certificate at client (jave app server) side
+  - Here are steps you can take to resolve this issue:
+   
+   1. Trust the Redis Server's Certificate
+     - If the Redis server uses a self-signed certificate or a certificate from a non-standard Certificate Authority
+       (CA), you'll need to import that certificate into your Java trust store.
+	 - Steps to Import the Certificate:
+
+      Get the Server Certificate: You can use openssl to retrieve the certificate:
+
+     - openssl s_client -connect your-redis-host:port -showcerts
+
+     - Copy the certificate portion (between -----BEGIN CERTIFICATE----- and -----END CERTIFICATE-----).
+
+     - Save the Certificate: Save the copied certificate to a file, e.g., redis-server-cert.pem.
+
+     - Import the Certificate into Java's Trust Store: Use the keytool command that comes with the JDK:
+
+     -  keytool -import -alias redis-server-cert -file redis-server-cert.pem -keystore $JAVA_HOME/lib/security/cacerts -storepass changeit
+	 
+     - Replace $JAVA_HOME with your actual JDK installation path. The default password for the Java trust store is usually changeit.
+
+
+     - keytool -import -alias redis-server-cert-2 -file "D:/jayawant/redis-server-cert.pem" -keystore "C:/Program Files/Java/jdk-17/lib/security/cacerts" -storepass changeit
+
+
+
+- Summary
+    - redis.key & crt at redis code side
+	- redis.server-cert.pem at client machine/path side i.e. in this case at java server side
+
+
+
+Code changes
+
+***************************************************************************************************
+in application properties
+
+
+spring.application.name=redis-chache-poc
+server.port=8082
+
+spring.data.redis.port=6380
+spring.data.redis.host=localhost
+spring.data.redis.password=Test@123
+spring.data.redis.ssl.enabled=true
+spring.cache.redis.time-to-live=60000
+# TTL in milliseconds
+
+
+
+pom.xml
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-redis</artifactId>
+		</dependency>
+				<dependency>
+			<groupId>io.lettuce</groupId>
+			<artifactId>lettuce-core</artifactId>
+			<version>6.3.2.RELEASE</version>
+		</dependency>
+
+
+Spring starter class
+
+@EnableCaching
+
+
+In use case
+
+   @Cacheable(value="product", key="#id")
+    public Product getProduct(long id) {
+
+         // connect();
+       return getDataPerkey(id);
+    }
+	
+	
+*****************************************************************************************
+
+
+Alternate to check ssl enabled or not 
+
+*******************************************************************************************
+ public void connect() {
+        RedisURI redisUri = RedisURI.builder()
+                .withHost("localhost")
+                .withPort(6380)  // Specify your Redis TLS port
+                .withSsl(true)  // Enable SSL
+               // .withSslVerifyPeer(true)  // Optional: verify peer certificates
+                .withPassword("Test@123")  // Set password if necessary
+                .withTimeout(Duration.ofSeconds(120))  // Optional timeout
+                .build();
+
+        // Create client resources (optional, can be customized)
+        ClientResources clientResources = DefaultClientResources.create();
+
+        // Create RedisClient
+        RedisClient redisClient = RedisClient.create(clientResources, redisUri);
+
+        // Open connection
+        try (StatefulRedisConnection<String, String> connection = redisClient.connect()) {
+            RedisCommands<String, String> syncCommands = connection.sync();
+
+            // Test the connection with a PING
+            String response = syncCommands.ping();
+            System.out.println("Connected to Redis with TLS. PING response: " + response);
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            // Shutdown the client
+            redisClient.shutdown();
+        }
+    }
+
+
+
+********************************************************************************************	
+	
+	
+	
+
+
